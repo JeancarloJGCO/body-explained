@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../site.config';
+---
+<Base title="Contact" description="Contact The Body Explained with questions, topic suggestions or corrections.">
+  <div class="page">
+<h1>Contact Us</h1>
+<p>We'd love to hear from you — whether you've spotted an error, want to suggest a topic, or have a general question about the site.</p>
+<p>Email: <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a></p>
+<p>Please note: we cannot answer personal medical questions or give individual health advice. For that, please speak with a qualified healthcare provider.</p>
+  </div>
+</Base>

@@ -1,0 +1,11 @@
+---
+import { CATEGORIES } from '../content.config';
+const { entry } = Astro.props;
+const d = entry.data;
+---
+<article class="card">
+  <a class="pill" href={`/category/${d.category}/`}>{CATEGORIES[d.category]}</a>
+  <h3><a href={`/articles/${entry.id}/`}>{d.title}</a></h3>
+  <p>{d.description}</p>
+  <div class="meta">{d.readingMinutes} min read</div>
+</article>

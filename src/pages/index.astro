@@ -1,0 +1,23 @@
+---
+import Base from '../layouts/Base.astro';
+import Card from '../components/Card.astro';
+import { SITE } from '../site.config';
+import { getPublished } from '../lib/articles';
+
+const posts = await getPublished();
+const jsonld = [{
+  '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: Astro.site?.href, description: SITE.description,
+}];
+---
+<Base title={SITE.name} description={SITE.description} jsonld={jsonld}>
+  <section class="wrap hero">
+    <h1>How your body works, explained clearly.</h1>
+    <p>Plain-English explainers on sleep, nutrition, movement, the brain and the everyday questions you've always wondered about — every article checked against trusted medical and scientific sources.</p>
+  </section>
+  <section class="wrap">
+    <h2 class="section-title">Latest explainers</h2>
+    <div class="grid">
+      {posts.map((p) => <Card entry={p} />)}
+    </div>
+  </section>
+</Base>

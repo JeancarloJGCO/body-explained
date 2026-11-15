@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import Card from '../../components/Card.astro';
+import { CATEGORIES } from '../../content.config';
+import { getPublished } from '../../lib/articles';
+
+export async function getStaticPaths() {
+  const posts = await getPublished();
+  return Object.keys(CATEGORIES).map((cat) => ({
+    params: { cat },
+    props: { posts: posts.filter((p) => p.data.category === cat) },
+  }));
+}
+const { cat } = Astro.params as { cat: keyof typeof CATEGORIES };
+const { posts } = Astro.props;
+const name = CATEGORIES[cat];
+---
+<Base title={name} description={`Evergreen, source-backed explainers about ${name.toLowerCase()} from The Body Explained.`} noindex={posts.length === 0}>
+  <section class="wrap hero">
+    <h1>{name}</h1>
+    <p>{posts.length} {posts.length === 1 ? 'explainer' : 'explainers'} in this topic.</p>
+  </section>
+  <section class="wrap">
+    <div class="grid">{posts.map((p) => <Card entry={p} />)}</div>
+    {posts.length === 0 && <p style="padding-bottom:60px">New articles coming soon.</p>}
+  </section>
+</Base>

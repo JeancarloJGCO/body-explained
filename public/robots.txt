@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-body-explained.netlify.app/sitemap-index.xml
