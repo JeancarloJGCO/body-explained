@@ -40,7 +40,7 @@ You might see older sources describe *four* non-REM stages. Sleep specialists me
 
 ## Stage N1: drifting off
 
-N1 is the doorway between wakefulness and sleep. It usually lasts only **one to five minutes**.
+N1 is the doorway between wakefulness and sleep — often announced by a few big yawns (here's [why we yawn](/articles/why-do-we-yawn/)). It usually lasts only **one to five minutes**.
 
 - Your heartbeat, breathing and eye movements start to slow.
 - Muscles relax, though they may twitch.
