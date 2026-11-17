@@ -11,7 +11,7 @@ The daily agent takes the first unchecked topic (rotating categories) and marks 
 
 ## Queue
 - [x] Why do we yawn, and why is it contagious? — everyday-health
-- [ ] How does the heart pump blood? — how-the-body-works
+- [x] How does the heart pump blood? — how-the-body-works
 - [ ] Why do we dream? — sleep
 - [ ] What does fiber actually do in your body? — nutrition-basics
 - [ ] What happens to your body when you walk every day — movement
