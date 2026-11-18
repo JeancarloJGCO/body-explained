@@ -80,7 +80,7 @@ About 90 minutes after you fall asleep, you enter your first REM period. REM is 
 - **Most voluntary muscles are temporarily paralyzed**, which prevents you from physically acting out your dreams.
 - The **amygdala**, a brain region involved in emotion, becomes especially active.
 
-REM is where the most vivid, story-like dreams happen, although dreaming can occur in other stages too. It's thought to be important for learning, memory and emotional processing. In adults, REM makes up roughly **20–25% of total sleep**. The first REM period may last only a few minutes, but later ones can stretch to an hour.
+REM is where the most vivid, story-like dreams happen, although dreaming can occur in other stages too (more on [why we dream](/articles/why-do-we-dream/)). It's thought to be important for learning, memory and emotional processing. In adults, REM makes up roughly **20–25% of total sleep**. The first REM period may last only a few minutes, but later ones can stretch to an hour.
 
 ## How the cycles fit together
 
