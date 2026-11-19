@@ -107,7 +107,7 @@ It's uncommon, but yes. Drinking very large amounts of water in a short time can
 
 - Keep a reusable water bottle where you can see it.
 - Drink a glass of water with each meal.
-- Eat plenty of fruits and vegetables.
+- Eat plenty of fruits and vegetables (which also supply water-loving [dietary fiber](/articles/what-does-fiber-do-in-your-body/)).
 - Drink more before, during and after exercise or time in the heat.
 - Choose water over sugary drinks most of the time.
 
