@@ -14,7 +14,7 @@ The daily agent takes the first unchecked topic (rotating categories) and marks 
 - [x] How does the heart pump blood? — how-the-body-works
 - [x] Why do we dream? — sleep
 - [x] What does fiber actually do in your body? — nutrition-basics
-- [ ] What happens to your body when you walk every day — movement
+- [x] What happens to your body when you walk every day — movement
 - [ ] How do memories form in the brain? — mind
 - [ ] Why do knuckles crack? — everyday-health
 - [ ] How do your kidneys filter blood? — how-the-body-works

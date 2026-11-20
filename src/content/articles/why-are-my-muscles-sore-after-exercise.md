@@ -80,7 +80,7 @@ No. Soreness tells you a workout was **unfamiliar**, not that it was effective. 
 
 There's no instant cure, but some approaches can ease discomfort:
 
-- **Gentle movement.** Light walking, cycling or easy swimming increases blood flow and often reduces stiffness temporarily.
+- **Gentle movement.** Light walking (one of the easiest everyday habits — see [what happens when you walk every day](/articles/what-happens-when-you-walk-every-day/)), cycling or easy swimming increases blood flow and often reduces stiffness temporarily.
 - **Time.** DOMS resolves on its own; patience is the most reliable remedy.
 - **Massage.** Some research suggests massage after exercise can modestly reduce soreness.
 - **Sleep and nutrition.** Adequate sleep, protein and overall energy intake support the repair process.
