@@ -72,7 +72,7 @@ The authors suggest dreams may work a bit like a simulation, where upsetting mat
 
 ### Dreams and memory
 
-Sleep is clearly important for learning — both non-REM and REM sleep seem to help lock in new memories. Dreams often borrow fragments of recent days: a conversation, a place, a worry. Cleveland Clinic describes dreaming as a likely helper in analyzing and consolidating memories, including skills and habits. Still, it's hard to prove whether the dream itself does the work or is simply a window into memory processing happening in the background.
+Sleep is clearly important for learning — both non-REM and REM sleep seem to help lock in new memories (here's [how memories form in the brain](/articles/how-do-memories-form-in-the-brain/) in the first place). Dreams often borrow fragments of recent days: a conversation, a place, a worry. Cleveland Clinic describes dreaming as a likely helper in analyzing and consolidating memories, including skills and habits. Still, it's hard to prove whether the dream itself does the work or is simply a window into memory processing happening in the background.
 
 ### Rehearsal for real life
 
