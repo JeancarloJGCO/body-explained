@@ -16,7 +16,7 @@ The daily agent takes the first unchecked topic (rotating categories) and marks 
 - [x] What does fiber actually do in your body? — nutrition-basics
 - [x] What happens to your body when you walk every day — movement
 - [x] How do memories form in the brain? — mind
-- [ ] Why do knuckles crack? — everyday-health
+- [x] Why do knuckles crack? — everyday-health
 - [ ] How do your kidneys filter blood? — how-the-body-works
 - [ ] How much sleep do you really need by age — sleep
 - [ ] What is protein and why do you need it? — nutrition-basics

@@ -92,4 +92,4 @@ Nobody knows for sure. Hiccups appear even before birth — fetuses hiccup in th
 
 ## The takeaway
 
-A hiccup is your diaphragm briefly hijacked by a nerve reflex, followed by your vocal cords snapping shut. Big meals, fizzy drinks, temperature changes and excitement are the usual culprits, and most home remedies work by interrupting the nerve loop. Short bouts are nothing to worry about — but hiccups that hang around for more than two days deserve a conversation with a healthcare professional.
+A hiccup is your diaphragm briefly hijacked by a nerve reflex, followed by your vocal cords snapping shut. Big meals, fizzy drinks, temperature changes and excitement are the usual culprits, and most home remedies work by interrupting the nerve loop. Short bouts are nothing to worry about — much like the harmless pop of [cracking your knuckles](/articles/why-do-knuckles-crack/) — but hiccups that hang around for more than two days deserve a conversation with a healthcare professional.
