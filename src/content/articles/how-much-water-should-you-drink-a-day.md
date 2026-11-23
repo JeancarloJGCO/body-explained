@@ -96,7 +96,7 @@ Common signs of mild dehydration include thirst, dark urine, dry mouth, headache
 Fluid needs and thirst signals aren't constant across a lifetime:
 
 - **Children** have higher water needs relative to their body size and may get absorbed in play without noticing thirst, so offering water regularly — especially in hot weather or during sports — is helpful.
-- **Older adults** often experience a **weaker thirst response**, and the kidneys become less efficient at conserving water. Some medications, such as diuretics, also increase fluid loss. This makes older adults more prone to dehydration even when they don't feel thirsty, so building drinks into daily routines (with meals, with medications) can be useful.
+- **Older adults** often experience a **weaker thirst response**, and the [kidneys](/articles/how-do-kidneys-filter-blood/) become less efficient at conserving water. Some medications, such as diuretics, also increase fluid loss. This makes older adults more prone to dehydration even when they don't feel thirsty, so building drinks into daily routines (with meals, with medications) can be useful.
 - **Athletes and outdoor workers** can lose a liter or more of sweat per hour in hot conditions, along with salts like sodium. During long or intense sessions, replacing both fluid and electrolytes matters.
 
 ## Can you drink too much?
