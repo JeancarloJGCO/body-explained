@@ -106,7 +106,7 @@ Beyond the stages themselves, a lot of whole-body housekeeping happens overnight
 
 ## Why this matters for you
 
-Understanding the cycle can make your sleep habits more intuitive. Consistent bedtimes help your body predict when to start each stage. Getting a full night protects both the deep sleep of the early hours and the REM-rich hours before dawn. And if you regularly wake up groggy, you may be getting pulled out of deep sleep — something a more regular schedule can help with.
+Understanding the cycle can make your sleep habits more intuitive. Consistent bedtimes help your body predict when to start each stage. Getting a full night — see [how much sleep you need by age](/articles/how-much-sleep-do-you-need-by-age/) — protects both the deep sleep of the early hours and the REM-rich hours before dawn. And if you regularly wake up groggy, you may be getting pulled out of deep sleep — something a more regular schedule can help with.
 
 If you consistently feel unrested despite adequate time in bed, snore loudly, or notice pauses in your breathing during sleep, it's worth talking to a healthcare professional, as these can be signs of a sleep disorder.
 
