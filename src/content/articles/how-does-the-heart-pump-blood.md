@@ -103,7 +103,7 @@ The amount of blood your heart pumps each minute is called **cardiac output**. I
 | Blood pumped per day | Roughly 2,000 gallons |
 | Heartbeats over an 80-year life | Roughly 2.5 billion |
 
-When you start moving, your muscles need more oxygen, so the heart responds by beating faster and pushing out more blood with each squeeze. That's the burst you feel during a run or a flight of stairs — and regular exercise trains the heart to handle that demand more easily. (If your legs complain the next day, that's a different story, explained in [why your muscles are sore days after exercise](/articles/why-are-my-muscles-sore-after-exercise/).)
+When you start moving, your muscles need more oxygen, so the heart responds by beating faster and pushing out more blood with each squeeze. That's the burst you feel during a run or a flight of stairs — and regular exercise trains the heart to handle that demand more easily, which is also why fit people tend to have a slower pulse at rest (see [what a good resting heart rate is](/articles/what-is-a-good-resting-heart-rate/)). (If your legs complain the next day, that's a different story, explained in [why your muscles are sore days after exercise](/articles/why-are-my-muscles-sore-after-exercise/).)
 
 ## When to talk to a professional
 
