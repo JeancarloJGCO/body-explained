@@ -21,7 +21,7 @@ The daily agent takes the first unchecked topic (rotating categories) and marks 
 - [x] How much sleep do you really need by age — sleep
 - [x] What is protein and why do you need it? — nutrition-basics
 - [x] What is a good resting heart rate and what affects it — movement
-- [ ] Why do we get brain freeze? — everyday-health
+- [x] Why do we get brain freeze? — everyday-health
 - [ ] How does digestion work, step by step — how-the-body-works
 - [ ] What is the circadian rhythm? — sleep
 - [ ] Carbohydrates explained: simple vs complex — nutrition-basics

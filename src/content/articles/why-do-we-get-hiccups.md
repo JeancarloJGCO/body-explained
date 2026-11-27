@@ -88,7 +88,7 @@ Long-lasting hiccups usually mean something is continuously irritating the refle
 
 ## Do hiccups have a purpose?
 
-Nobody knows for sure. Hiccups appear even before birth — fetuses hiccup in the womb — which has led scientists to propose several theories. Some suggest hiccups help babies clear air from the stomach during feeding; others think they may be a leftover reflex from our evolutionary ancestors, or a way the developing brain practices controlling breathing muscles. None of these ideas is settled, which is part of what makes the humble hiccup so interesting.
+Nobody knows for sure. Hiccups appear even before birth — fetuses hiccup in the womb — which has led scientists to propose several theories. Some suggest hiccups help babies clear air from the stomach during feeding; others think they may be a leftover reflex from our evolutionary ancestors, or a way the developing brain practices controlling breathing muscles. None of these ideas is settled, which is part of what makes the humble hiccup so interesting. (For another quick, puzzling reaction to something you eat or drink, see [why we get brain freeze](/articles/why-do-we-get-brain-freeze/).)
 
 ## The takeaway
 
